@@ -1,0 +1,1 @@
+# TSnativescript-barcode
